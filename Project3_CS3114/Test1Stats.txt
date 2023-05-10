@@ -1,0 +1,21 @@
+------  STATS ------
+File Name: Test1.bin
+Cache Hits: 1667981
+Cache Misses: 1819445
+Disk Reads: 1819445
+Disk Writes: 1184378
+Time to Sort: 1614
+------  STATS ------
+File Name: Test1.bin
+Cache Hits: 2219993
+Cache Misses: 1266311
+Disk Reads: 1266311
+Disk Writes: 645288
+Time to Sort: 1178
+------  STATS ------
+File Name: Test1.bin
+Cache Hits: 2220594
+Cache Misses: 1266426
+Disk Reads: 1266426
+Disk Writes: 645688
+Time to Sort: 1016
